@@ -1,1 +1,5 @@
-
+Question Answering System using Dense Retrieval and BERT
+Dense Retrieval --> Dense vector representation(embeddings) of documents and queries 
+BERT --> Understanding and answering the query once the relevant document/passage is retrieved
+Indexing to find the most relevant passage
+Cosine similarity whose Threshold value is less than 0.3 is considered "Irrelevant"  
