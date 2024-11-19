@@ -1,1 +1,4 @@
-
+PyTorch: For model loading and inference.
+Hugging Face Transformers: For pre-trained vision-language models.
+BLIP: (Bootstraping Language Image Pre-Training) Model from Hugging Face for processor and model
+Pillow & Matplotlib: For image processing and visualization.
